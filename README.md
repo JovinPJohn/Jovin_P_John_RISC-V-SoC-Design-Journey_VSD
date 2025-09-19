@@ -13,17 +13,15 @@ This repository documents my successful completion of Week 0 task for the **RISC
 
 ## 🖥️ System
 - **OS**: Ubuntu
-- **Installation Date**: 19-09-25
+- **Installation Date**: September 19, 2025
 
 ## 🛠️ Tools Installation Status
 
 | Tool | Version | Installation Method | Status |
 |------|---------|-------------------|---------|
-| **Iverilog** | [Run: `iverilog -V`] | `sudo apt install iverilog` | ✅ Verified |
-| **Yosys** | [Run: `yosys -V`] | `sudo apt install yosys` | ✅ Verified |
-| **GTKWave** | [Run: `gtkwave --version`] | `sudo apt install gtkwave` | ✅ Verified |
-
-# Week 0: EDA Tools Installation
+| **Iverilog** | Icarus Verilog version 11.0 | `sudo apt install iverilog` | ✅ Verified |
+| **Yosys** | Yosys 0.9+4081 | `sudo apt install yosys` | ✅ Verified |
+| **GTKWave** | GTKWave Analyzer v3.3.104 | `sudo apt install gtkwave` | ✅ Verified |
 
 ## 🛠️ Installation Process
 
@@ -52,3 +50,16 @@ This repository documents my successful completion of Week 0 task for the **RISC
 ### GTKWave Verification
 <img width="812" height="146" alt="gtkwave-verification" src="https://github.com/user-attachments/assets/e3a4d44b-77ab-478c-8a5f-0ceb85f19e54" />
 *GTKWave version check confirming successful installation*
+
+## 🎓 Conclusion
+Successfully completed Week 0 task with all three EDA tools installed and verified on Ubuntu system. The development environment is now ready for the upcoming RISC-V SoC design activities in the program.
+
+## 🙏 Acknowledgments
+- **Kunal Ghosh** and the **VSD team** for organizing this comprehensive program
+- **RISC-V International** for promoting open-source hardware development
+- **Open-source EDA community** for developing these essential tools
+
+---
+**Task Status**: ✅ **COMPLETED**  
+**Program**: RISC-V SoC Tapeout Program - VSD  
+**Week**: 0 - EDA Tools Installation
