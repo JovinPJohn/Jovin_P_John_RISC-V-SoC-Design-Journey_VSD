@@ -28,27 +28,27 @@ This repository documents my successful completion of Week 0 task for the **RISC
 ## 🛠️ Installation Process
 
 ### Iverilog Installation
-![Iverilog Installation](screenshots/iverilog-installation.png)
+<img width="841" height="302" alt="iverilog-installation" src="https://github.com/user-attachments/assets/97858d62-a770-46fb-b750-400799f293ec" />
 *Installing Icarus Verilog using apt package manager*
 
 ### Yosys Installation  
-![Yosys Installation](screenshots/yosys-installation.png)
+<img width="816" height="234" alt="yosys-installation" src="https://github.com/user-attachments/assets/1a7f1385-b7e1-4db1-a825-abdff9c98576" />
 *Installing Yosys synthesis tool*
 
 ### GTKWave Installation
-![GTKWave Installation](screenshots/gtkwave-installation.png)
+<img width="1214" height="490" alt="gtkwave-installation" src="https://github.com/user-attachments/assets/cb2fed7a-4df3-4e8c-bfaa-f2076a480a4f" />
 *Installing GTKWave waveform viewer*
 
 ## ✅ Verification Results
 
 ### Iverilog Verification
-![Iverilog Verification](screenshots/iverilog-verification.png)
+<img width="916" height="688" alt="iverilog-verification" src="https://github.com/user-attachments/assets/e1e872f5-9ef9-451d-9961-d584c6153b1a" />
 *Iverilog version check confirming successful installation*
 
 ### Yosys Verification
-![Yosys Verification](screenshots/yosys-verification.png)
+<img width="925" height="60" alt="yosys-verification" src="https://github.com/user-attachments/assets/2de4d6b7-9e44-4393-a03d-cf248baf6248" />
 *Yosys version check confirming successful installation*
 
 ### GTKWave Verification
-![GTKWave Verification](screenshots/gtkwave-verification.png)
+<img width="812" height="146" alt="gtkwave-verification" src="https://github.com/user-attachments/assets/e3a4d44b-77ab-478c-8a5f-0ceb85f19e54" />
 *GTKWave version check confirming successful installation*
